@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+<title>Chess book</title> 
+<style> 
+table, th, td {border: 1px solid white; border-collapse:collapse;}
+</style>
+</head>
+
+<body style="background-color:#1A1C1B
+"link=white vlink=white alink=white>
+<center>
+<font><a href=page2.html><img src="img_4217.jpg" width=50 height=50 style=float:></a> </font>
+<b>
+<font style="font-size:350%;
+font-family:sans serif; color:white;"> Chess Book </font>
+
+</center>
+
+<table width=100%>
+<tr>
+<td width 20%><font style="font-size:100%;
+font-family:courier; color:white;"><a href=index.html>home</a>
+ </font></td>
+<td width 20% ><font style="font-size:100%;
+font-family:courier; color:white;"><a href=page2.html>how to play chess</a>
+ </font></td>
+<td width 20%><font style="font-size:100%;
+font-family:courier; color:white;"><a href=page 3.html>chess history</a>
+ </font></td>
+<td width 20%><font style="font-size:100%;
+font-family:courier; color:white;"><a href=page 4.html>chess openings</a>
+ </font></td>
+<td width 20% ><font style="font-size:100%;
+font-family:courier; color:white;"><a href=page 5.html>chess games</a>
+ </font></td>
+
+
+
+</tr>
+<tr>
+</tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+
